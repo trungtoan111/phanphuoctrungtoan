@@ -8,5 +8,6 @@ namespace Toan2.Models
 {
     internal class User
     {
+        "public int MSSV { get; set;}"
     }
 }
